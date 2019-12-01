@@ -1,0 +1,231 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ASE_Component I</name>
+    </assembly>
+    <members>
+        <member name="T:FirstComponent.Circle">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:FirstComponent.Circle.r">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:FirstComponent.Circle.x">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:FirstComponent.Circle.y">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:FirstComponent.Circle.ValueSaved(System.Int32,System.Int32,System.Int32)">
+            <summary>
+            
+            </summary>
+            <param name="a"></param>
+            <param name="b"></param>
+            <param name="c"></param>
+        </member>
+        <member name="M:FirstComponent.Circle.ShapeDraw(System.Drawing.Graphics)">
+            <summary>
+            
+            </summary>
+            <param name="g"></param>
+        </member>
+        <member name="T:FirstComponent.Triangle">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:FirstComponent.Triangle.x">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:FirstComponent.Triangle.y">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:FirstComponent.Triangle.CircleBase">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:FirstComponent.Triangle.CirclePer">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:FirstComponent.Triangle.SavedValues(System.Int32,System.Int32,System.Int32,System.Int32)">
+            <summary>
+            
+            </summary>
+            <param name="a"></param>
+            <param name="b"></param>
+            <param name="c"></param>
+            <param name="d"></param>
+        </member>
+        <member name="M:FirstComponent.Triangle.ShapeDraw(System.Drawing.Graphics)">
+            <summary>
+            
+            </summary>
+            <param name="g"></param>
+        </member>
+        <member name="T:FirstComponent.FormMain">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:FirstComponent.FormMain.positionX">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:FirstComponent.FormMain.positionY">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:FirstComponent.FormMain.#ctor">
+             <summary>
+            
+             </summary>
+        </member>
+        <member name="M:FirstComponent.FormMain.PenMove(System.Int32,System.Int32)">
+            <summary>
+            
+            </summary>
+            <param name="x"></param>
+            <param name="y"></param>
+        </member>
+        <member name="M:FirstComponent.FormMain.DrawPen(System.Int32,System.Int32)">
+            <summary>
+            
+            </summary>
+            <param name="a"></param>
+            <param name="b"></param>
+        </member>
+        <member name="M:FirstComponent.FormMain.rectangleDrawing(System.Int32,System.Int32,System.Int32,System.Int32)">
+            <summary>
+            
+            </summary>
+            <param name="a"></param>
+            <param name="b"></param>
+            <param name="c"></param>
+            <param name="d"></param>
+        </member>
+        <member name="M:FirstComponent.FormMain.circleDrawing(System.Int32,System.Int32,System.Int32)">
+            <summary>
+            
+            </summary>
+            <param name="a"></param>
+            <param name="b"></param>
+            <param name="c"></param>
+        </member>
+        <member name="M:FirstComponent.FormMain.triangleDrawing(System.Int32,System.Int32,System.Int32,System.Int32)">
+            <summary>
+            
+            </summary>
+            <param name="a"></param>
+            <param name="b"></param>
+            <param name="c"></param>
+            <param name="d"></param>
+        </member>
+        <member name="F:FirstComponent.FormMain.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:FirstComponent.FormMain.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:FirstComponent.FormMain.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:FirstComponent.GraphicalProgram.Main">
+            <summary>
+            The main entry point for the application.
+            </summary>
+        </member>
+        <member name="T:FirstComponent.Rectangle">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:FirstComponent.Rectangle.x">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:FirstComponent.Rectangle.y">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:FirstComponent.Rectangle.z">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:FirstComponent.Rectangle.h">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:FirstComponent.Rectangle.saved_values(System.Int32,System.Int32,System.Int32,System.Int32)">
+            <summary>
+            
+            </summary>
+            <param name="a"></param>
+            <param name="b"></param>
+            <param name="c"></param>
+            <param name="d"></param>
+        </member>
+        <member name="M:FirstComponent.Rectangle.ShapeDraw(System.Drawing.Graphics)">
+            <summary>
+            
+            </summary>
+            <param name="g"></param>
+        </member>
+        <member name="T:FirstComponent.Shape">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:FirstComponent.Shape.ShapeDraw(System.Drawing.Graphics)">
+            <summary>
+            
+            </summary>
+            <param name="g"></param>
+        </member>
+        <member name="T:FirstComponent.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:FirstComponent.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:FirstComponent.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+    </members>
+</doc>

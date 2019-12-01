@@ -1,0 +1,10 @@
+D:\ASE_Component_1\ASE_Component_1\bin\Debug\ASE_Component I.exe.config
+D:\ASE_Component_1\ASE_Component_1\bin\Debug\ASE_Component I.xml
+D:\ASE_Component_1\ASE_Component_1\bin\Debug\ASE_Component I.exe
+D:\ASE_Component_1\ASE_Component_1\bin\Debug\ASE_Component I.pdb
+D:\ASE_Component_1\ASE_Component_1\obj\Debug\FirstComponent.csprojAssemblyReference.cache
+D:\ASE_Component_1\ASE_Component_1\obj\Debug\ASE_Component_I.Properties.Resources.resources
+D:\ASE_Component_1\ASE_Component_1\obj\Debug\FirstComponent.csproj.GenerateResource.cache
+D:\ASE_Component_1\ASE_Component_1\obj\Debug\ASE_Component I.exe
+D:\ASE_Component_1\ASE_Component_1\obj\Debug\ASE_Component I.pdb
+D:\ASE_Component_1\ASE_Component_1\obj\Debug\FirstComponent.FormMain.resources
